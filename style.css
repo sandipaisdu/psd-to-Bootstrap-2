@@ -1,0 +1,173 @@
+*{
+margin:0;
+padding:0;
+}
+ #owl-demo .item img{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+
+    .carousel-indicators .active {
+  width: 12px;
+  height: 12px;
+  margin: 0;
+  background-color: red;
+}
+
+.header_area{
+	background-color: #292824;
+	min-height: 60px;
+	line-height: 60px;
+}
+.header_area ul{
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+.header_area ul li{
+	display: inline;
+
+
+}
+
+.header_area ul li a {
+  padding: 45px;
+  color: #fff;
+  text-decoration: none;
+
+}
+.header_area ul li a:hover{}
+
+
+.green{
+	color:#abb820;
+}
+.welcome_area h2{
+	border-bottom: 1px dotted #cdcdcd;
+}
+
+.welcome_area p{
+	border-bottom: 1px dotted #cdcdcd;
+	color: #cdcdcd;
+}
+
+.left_promo_area img {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #45423d;
+  height: 130px;
+}
+
+.left_promo_area h2 {
+  margin-top: 0px;
+}
+
+.left_promo_area p {
+  text-decoration: underline;
+  color: #848484;
+  line-height: 30px;
+}
+.welcome_paragraph p{
+	color: #848484;
+}
+.features_area img {
+width: 100%;
+  height: 65px;
+}
+.features_area ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+.features_area ul li {
+
+}
+.features_area ul li a{
+text-decoration: underline;
+color:#848484;
+}
+.features_area ul li a:hover{
+
+}
+.features_paragraph h2 {
+  font-size: 25px;
+}
+.features_paragraph p{
+
+}
+
+
+
+
+.services_area h2{
+border-bottom: 1px dotted #cdcdcd;
+}
+
+
+.services_area p{
+border-bottom: 1px dotted #cdcdcd;
+}
+.right_promo_area img{
+  width: 90%;
+  border-radius: 10px;
+  border: 1px solid #45423d;
+  height: 130px;
+}
+.right_promo_area ul{
+	margin: 0;
+	padding: 0;
+	list-style-image: url('img/list_image.png');
+	padding-left: 15px;
+	margin-top: 10px;
+}
+.right_promo_area ul li{
+	line-height: 25px;
+}
+.right_promo_area ul li a{
+	color:#000;
+	text-decoration: none;
+}
+.right_promo_area ul li a:hover{}
+
+.case_area h2{
+border-bottom: 1px dotted #cdcdcd;
+}
+.logics_area img{
+	width: 100%;
+	height: 65px;
+}
+.logics_area h2 {
+  margin-top: 0px;
+  font-size: 20px;
+}
+
+	.logic_paragraph p {
+  line-height: 35px;
+}
+.footer_area{
+	background-color: #e9e9e9;
+	min-height: 40px;
+	line-height: 40px;
+}
+.footer_area ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.footer_area ul li{
+	display: inline;
+	text-align: center;
+}
+.footer_area ul li a{
+	padding: 10px;
+color: #848484;
+text-decoration: none;;
+}
+.footer_area ul li a:hover{
+	text-decoration: underline;
+}
+.footer_area p{
+	color: #848484;
+}
